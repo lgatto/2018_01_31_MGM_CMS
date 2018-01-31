@@ -51,7 +51,7 @@ joining the *rebel alliance*.
 
 --
 
-### Open (or lack thereof) driven by supervisors?
+### Open (or lack thereof) driven by you or by your supervisor?
 
 
 ---
@@ -85,11 +85,16 @@ class: middle
 * free to **use**/**re-use**/**mine**
 * free to **disseminate** (publish)
 
+.right[(free as in beer and as in speech)]
+
 ### And
 
 * **inclusive**
 
+
 ???
+
+**Free as in beer and as in speech**
 
 Re free to disseminate, we need to be careful of the current
 *pay-to-publish* golden open access route.
@@ -98,6 +103,10 @@ Re free to disseminate, we need to be careful of the current
 class: middle, center, inverse
 
 ## Mertonian norms of Science (1942)
+
+???
+
+The idea of *open science* is not new.
 
 ---
 class: middle
@@ -181,6 +190,11 @@ class: middle, center, inverse
 ## Are there any barriers to open reseach? 
 
 ## What are they?
+
+???
+
+- Barriers to open research?
+- Barriers to promotion doing open research?
 
 ---
 class: middle
