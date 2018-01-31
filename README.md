@@ -10,7 +10,7 @@ the
 [*An early career researcher's view on modern and open scholarship*](https://lgatto.github.io/EPFL-open-science/) blog
 post.
 
-Slides are available [here]() under a **creative
+Slides are available [here](http://bit.ly/20180131openecr) under a **creative
 common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/)**. You
 are free to share (copy and redistribute the material in any medium or
