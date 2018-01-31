@@ -1,0 +1,381 @@
+---
+title: "An early career researcher's view on modern and open scholarship"
+author: "[Laurent Gatto](#laurent-gatto)"
+date: "2018/01/31"
+output:
+  xaringan::moon_reader:
+    css: ["default", "default-fonts", "my.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: middle
+name: cc-by
+
+These slides and the
+[content of this talk](https://lgatto.github.io/EPFL-open-science/)
+are available under a **creative common
+[CC-BY license](http://creativecommons.org/licenses/by/4.0/)**. You
+are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for
+any purpose, even commercially <img height="20px" alt="CC-BY"
+src="./img/cc1.jpg" />.
+
+---
+class: middle, center, inverse
+
+## Open is not a replacement for good research.
+
+---
+
+class: middle
+
+We, ECRs
+
+```
+$ whoami 
+lg390
+```
+
+
+---
+class: middle, center, inverse
+
+## What is Open research
+
+---
+class: middle
+
+### Any research output should be
+
+* free to **access** (read)
+* free to **use**/**re-use**/**mine**
+* free to **disseminate** (publish)
+
+### And
+
+* **inclusive**
+
+???
+
+Re free to disseminate, we need to be careful of the current
+*pay-to-publish* golden open access route.
+
+---
+class: middle, center, inverse
+
+## Mertonian norms of Science (1942)
+
+---
+class: middle
+
+### [Mertonian norms of Science (1942)]([Mertonian norms of Science](https://en.wikipedia.org/wiki/Mertonian_norms) 
+
+- **universalism**
+- **communalism**
+- **disinterestedness**
+- **organised scepticism**
+
+Are these imperatives in line with current practice?
+
+???
+
+- **universalism**: scientific validity is independent of the 
+  sociopolitical status/personal attributes of its participants
+- **communalism**: all scientists should have common ownership of
+  scientific goods (intellectual property), to promote collective
+  collaboration; secrecy is the opposite of this norm.
+- **disinterestedness**: scientific institutions act for the benefit of
+  a common scientific enterprise, rather than for the personal gain of
+  individuals within them
+- **organised scepticism**: scientific claims should be exposed to
+  critical scrutiny before being accepted: both in methodology and
+  institutional codes of conduct.
+
+---
+class: middle, center
+
+[![When will 'open science' become simply 'science'?](./Figures/doi-13059-015-0669-2.png)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)
+
+
+---
+class: middle, center, inverse
+
+## Open is a gateway to more trustworthy research
+
+???
+
+Open research is important, in particular for ECR, because
+
+---
+class: middle
+
+Open research is important, in particular for ECR, because
+
+- Open research is research that enables **reproducible** and **repeatable**
+  research.
+- Open research is **transparent** and **honest** research.
+- Open research is **research that we can build upon**.
+
+### Open is better, and we should always aim for the better, not the worse.
+
+---
+class: middle
+
+## But then...
+
+> Why would anyone not want to do open research?
+
+---
+class: middle
+
+
+### If *research is the by-product of researchers getting promoted* (David Barron), then shouldn't we, early career researchers (ECRs), focus on promotion and being docile academic citizens rather than aiming for the more noble cause of pursuing research to understand the world that surrounds us, and disseminate our findings using modern channels?
+
+---
+class: middle
+
+### Barriers are not technological, but rather socio-cultural and political.
+
+- Systemic control and inertia
+- Vested interests by people in charge 
+- Abuse of power dynamics
+- (Perceived) fear of being scooped (Recent PLoS Biology editorial: [*The importance of being second*](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005203))
+- (Perceived) fear of not being credited
+- (Perceived) fear of errors and public humiliation, risk for reputation
+- (Perceived) fear of information overload
+- (Perceived) fear of becoming less competitive in a over-competitive market!
+- ...
+
+See Jon Tennant's recent presentation about
+[*Barriers to Open Science for junior researchers*](https://doi.org/10.6084/m9.figshare.5383711.v1.) for
+more details.
+
+---
+class: middle, center, inverse
+
+## Go OPEN! 
+
+---
+class: middle
+
+### Open research practices are here, and won't go away. It is clear that they will increase in the near future. If *you*, as an ECR, want to be a competitive researcher in the coming years (and you'll need to be), you'll need to be well versed in open research practices.
+
+
+---
+class: middle
+
+### Funders' requirements
+
+- CC-BY,
+  [data management plans](https://riojournal.com/articles.php?id=11624) and
+  other research outputs (software, cell lines, antibodies, ...), open
+  data.
+
+--
+
+### Acceptance of open practice
+
+- Pre-prints, open peer review
+
+--
+
+### Open science evaluation criteria 
+
+- The EU's
+[Evaluation of Research Careers fully acknowledging Open Science Practice](https://cdn1.euraxess.org/sites/default/files/policy_library/os-rewards-wgreport-final_integrated_0.pdf) 
+
+- [Reproducibility and open science are starting to matter in tenure and promotion](https://cos.io/blog/are-reproducibility-and-open-science-starting-matter-tenure-and-promotion-review/) July
+14th, 2017, Brian Nosek
+
+--
+
+### Career boost
+
+- Citation advantage and reproducible research
+
+
+---
+class: millde
+
+## Citation advantage
+
+* Tennant JP, Waldner F, Jacques DC et al. [*The academic, economic and societal impacts of Open Access: an evidence-based review*](https://f1000research.com/articles/5-632/)
+* Erin C McKiernan et al. [*Point of View: How open science helps researchers succeed*](https://elifesciences.org/articles/16800)
+* Piwowar HA, Vision TJ. (2013)
+[*Data reuse and the open data citation advantage*](https://peerj.com/articles/175/)
+
+
+---
+class: middle: center
+
+<img src="https://f1000researchdata.s3.amazonaws.com/manuscripts/10376/4f98c19e-717b-4d16-87c5-aaf0602e1ff8_figure2.gif">
+
+---
+class: middle: center
+
+<img src="https://iiif.elifesciences.org/lax:16800/elife-16800-fig1-v2.tif/full/1076,/0/default.jpg">
+
+---
+class: middle: center
+
+<img src="https://dfzljdn9uc3pi.cloudfront.net/2013/175/1/fig-1-1x.jpg">
+
+
+---
+class: middle
+
+## Reproducible research
+
+[![Faculty promotion must assess reproducibility](./Figures/2017-09-22-promotion-rr.png)](https://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596)
+
+
+---
+class: middle, center, inverse
+
+## We still need more
+
+
+???
+
+But, let's face it, in practice, it is currently still relatively easy
+to brush over many of these requirements. In addition, the incentives
+are still inconsequential compared to the (perceived) risks. Maybe we
+need more threads when not being open.
+
+
+---
+class: middle, center, inverse
+
+## What can (should) we/you do?
+
+---
+class: centre, middle
+
+## Promoting open research/science
+
+[![No researcher is too junior to fix science](./Figures/2017-09-21-fix-science.png)](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)
+
+---
+class: middle
+
+### Build openness at the core your research
+
+- Open research can't work as an afterthought
+
+--
+
+### Promoting open research through peer review
+
+- Focus firstly on the validity of the research by inspecting the
+  data, software and method. If the methods and/or data fail, the rest
+  is meaningless. See
+  [The role of peer-reviewers in ~~checking supporting information~~ promoting open science](https://rawgit.com/lgatto/2017-03-30-OSC-peerreview/master/slides.html) talk.
+
+
+--
+
+### Be reproducible!
+
+---
+class: middle, center
+
+
+[![Five selfish reasons to work reproducibly](./Figures/2017-09-22-selfish-rr.png)](https://doi.org/10.1186/s13059-015-0850-7)
+
+### Avoid disaster, easier to write papers, helps reviewing, continuity in your work, reputations
+
+
+---
+class: middle, centre
+
+## What can institutions and senior academics do?
+
+* Sign the Declaration on Research Assessment ([DORA](http://www.ascb.org/dora/)).
+* Positively value the commitment of open research and publishing practices.
+* Endorse immediate open publishing and 100% OA, and pre-prints
+* Endorse, support and promote the open publication of data and other scientific outputs such as software.
+* Educate researchers about [publishing practices](https://f1000research.com/articles/6-518/v2).
+* Be transparent about costs of publishing
+* Senior researchers: **give the right example**
+
+--
+
+The [BulliedIntoBadScience](http://bulliedintobadscience.org/)
+campaign, an initiative by ECRs for ECRs who aim for a fairer, more
+open and ethical research and publication environment.
+
+
+---
+class: center, middle, inverse
+
+# Inclusivity
+
+---
+class: middle, center
+
+## Inclusivity: open science and open science
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The primary value proposition of <a href="https://twitter.com/hashtag/openscience?src=hash">#openscience</a> is that diverse contributions allow better critique, refinement, and application 3/n</p>&mdash; CameronNeylon (@CameronNeylon) <a href="https://twitter.com/CameronNeylon/status/895546764861853696">August 10, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">It was a damned hard community to break into. Any step I took to be more open, I felt attacked for not doing enough/doing it right.</p>&mdash; Christie Bahlai (@cbahlai) <a href="https://twitter.com/cbahlai/status/871413258107981824">June 4, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+???
+
+Even if there are efforts to promote diversity, under-represented
+minorities (URM) don't necessarily feel included. When it comes to
+open science/research URMs can be further discriminated against by
+greater exposure or, can't always afford to be vocal.
+
+
+
+---
+class: middle, inverse
+
+## Conclusions
+
+* Open research is better research.
+* There's more than one open.
+* You want to do more. Yes please! 
+
+
+---
+class: middle
+name: laurent-gatto
+
+.left-col-50[
+<img src="./img/lgatto3b.png" width = "180px"/>
+### Laurent Gatto
+<i class="fas fa-flask"></i>&nbsp;[Computational Proteomics Unit](https://lgatto.github.io/cpu-lab/)<br />
+<i class="fas fa-map-marker-alt"></i>&nbsp;University of Cambridge<br />
+<i class="fas fa-envelope"></i>&nbsp;lg390@cam.ac.uk<br />
+<i class="fas fa-home"></i>&nbsp;https://lgatto.github.io<br />
+<i class="fab fa-twitter"></i>&nbsp;[@lgatto](https://twitter.com/lgatt0/)<br />
+<i class="fab fa-github"></i>&nbsp;[lgatto](https://github.com/lgatto/)<br />
+<img width="20px" align="top" alt="orcid" src="./img/orcid_64x64.png" />&nbsp;[0000-0002-1520-2268](https://orcid.org/0000-0002-1520-2268)<br />
+<img width="20px" align="top" alt="Impact story" src="./img/keybase.png"/>&nbsp;[lgatto](https://keybase.io/lgatto)<br />
+<img width="20px" align="top" alt="Google scholar" src="./img/gscholar.png"/>&nbsp;[Google scholar](https://scholar.google.co.uk/citations?user=k5DrB74AAAAJ&hl=en)<br />
+<img width="20px" align="top" alt="Impact story" src="./img/impactstory-logo.png"/>&nbsp;[Impact story](https://profiles.impactstory.org/u/0000-0002-1520-2268)<br />
+<i class="fas fa-pencil-alt"></i>&nbsp;[dissem.in](https://dissem.in/r/6231/laurent-gatto)<br />
+<!-- <i class="fab fa-linkedin"></i>&nbsp;https://www.linkedin.com/in/lgatto/<br /> -->
+]
+
+.rigth-col-50[
+
+## Thank you for your attention
+
+
+This talk is based on the *An early career researcher's view on modern
+and open scholarship* blog post:  
+
+https://lgatto.github.io/EPFL-open-science/
+
+]
